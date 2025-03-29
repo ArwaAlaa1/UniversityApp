@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\2e1be6dd-6814-4b18-9e83-5f709679f52b.png",
+      "PackagePath": "staticwebassets\\images\\students\\2e1be6dd-6814-4b18-9e83-5f709679f52b.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\454074b8-934b-4bf1-94ae-711dd7df1505.png",
+      "PackagePath": "staticwebassets\\images\\students\\454074b8-934b-4bf1-94ae-711dd7df1505.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\80962161-767c-4703-9dcb-5fa199c1c180.png",
+      "PackagePath": "staticwebassets\\images\\students\\80962161-767c-4703-9dcb-5fa199c1c180.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\8984d079-1f6d-4edc-9875-85ed5e30709b.png",
+      "PackagePath": "staticwebassets\\images\\students\\8984d079-1f6d-4edc-9875-85ed5e30709b.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\c6b8aab5-8b91-4dd1-a7b2-336f9067efb9.png",
+      "PackagePath": "staticwebassets\\images\\students\\c6b8aab5-8b91-4dd1-a7b2-336f9067efb9.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\d7ded469-bc98-4da9-a280-9961dcef248c.png",
+      "PackagePath": "staticwebassets\\images\\students\\d7ded469-bc98-4da9-a280-9961dcef248c.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\db0ecd32-f3a1-4f59-bd56-8c67d2d144c7.png",
+      "PackagePath": "staticwebassets\\images\\students\\db0ecd32-f3a1-4f59-bd56-8c67d2d144c7.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\dfff4c3e-cd1c-4787-b6c0-1af306a58f1c.png",
+      "PackagePath": "staticwebassets\\images\\students\\dfff4c3e-cd1c-4787-b6c0-1af306a58f1c.png"
+    },
+    {
+      "Id": "D:\\Back-End\\07 Asp Api\\Lab_1\\Lab_1\\wwwroot\\images\\students\\e4a612fe-c2ae-4101-b2e6-cb2a040e8533.png",
+      "PackagePath": "staticwebassets\\images\\students\\e4a612fe-c2ae-4101-b2e6-cb2a040e8533.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Lab_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Lab_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Lab_1.props",
+      "PackagePath": "build\\Lab_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab_1.props",
+      "PackagePath": "buildMultiTargeting\\Lab_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Lab_1.props",
+      "PackagePath": "buildTransitive\\Lab_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
